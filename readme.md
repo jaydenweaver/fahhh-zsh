@@ -17,9 +17,15 @@ A lightweight zsh hook that plays `fahhh.mp3` when tests fail using `afplay`.
 
 ## Install
 
+Download:
+```bash
+git clone https://github.com/jaydenweaver/fahhh-zsh
+```
+
 Run:
 
 ```bash
+cd fahhh-zsh
 chmod +x ./install.sh ./uninstall.sh
 ./install.sh
 ```
