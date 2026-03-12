@@ -1,6 +1,6 @@
 # fahhh-zsh
 
-A lightweight zsh hook that plays `fahhh.mp3` when a command fails using `afplay`.
+A lightweight zsh hook that plays `fahhh.mp3` when tests fail using `afplay`.
 
 <img src="fahhh.jpeg" alt="FAHHH" width="300" height="300">
 
@@ -101,3 +101,6 @@ Run:
 ```
 
 This removes the managed block from `~/.zshrc`. Restart `zsh` to fully unload the functions and hooks from the current shell session.
+
+## License
+MIT
